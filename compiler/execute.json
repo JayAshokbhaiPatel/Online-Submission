@@ -1,0 +1,3 @@
+{
+	"script":"<?php print("\hello word\"); ?>"
+}
